@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MichaelDeKlerk
+- 👀 I’m interested in Software Development and Cybersecurity
+- 🌱 I’m currently learning Python
